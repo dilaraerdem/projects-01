@@ -1,0 +1,133 @@
+/* Common xs1, xs2 */
+/* Common sm, md, lg */
+@media all and (min-width: 768px) {
+  .section-03 {
+    padding: 100px 0;
+  }
+  .section-03 .c-wrapper-02 {
+    display: flex;
+  }
+  .section-03 .c-wrapper-02 .c-column-01 {
+    flex: 1;
+  }
+  .section-03 .c-wrapper-02 .c-column-01 .c-item-01 {
+    position: absolute;
+    top: -80px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 144px;
+    line-height: 288px;
+    /* identical to box height, or 200% */
+    color: rgba(0, 0, 0, 0.1);
+  }
+  .section-03 .c-wrapper-02 .c-column-02 {
+    width: 782px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 > .c-item-01 {
+    margin-bottom: 32px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 60px;
+    /* identical to box height, or 125% */
+    letter-spacing: -0.022em;
+    color: #000000;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 > .c-item-02 {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+    /* or 170% */
+    letter-spacing: -0.017em;
+    color: rgba(0, 0, 0, 0.8);
+    padding-bottom: 80px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A {
+    display: flex;
+    background-color: #FFFFFF;
+    width: 782px;
+    height: 950px;
+    flex-direction: column;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-01 {
+    margin-bottom: 40px;
+    padding: 40px 0 0 40px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-01 .c-item-01-A {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    /* identical to box height, or 110% */
+    letter-spacing: -0.017em;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-01 .c-item-01-B {
+    font-family: "Inter";
+    font-style: italic;
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 22px;
+    /* identical to box height, or 220% */
+    letter-spacing: 0.01em;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-02 .c-item-02-A {
+    display: flex;
+    flex-direction: row;
+    padding: 42px 57px 42px 40px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 22px;
+    letter-spacing: -0.006em;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-02 .c-item-02-A p {
+    width: 425px;
+    height: 44px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-02 .c-item-02-A img {
+    width: 220px;
+    height: 80px;
+    padding-left: 57px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-A .c-item-02 hr {
+    border: 1px solid black;
+    width: 702px;
+    margin: 0 auto;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-B {
+    display: flex;
+    flex-direction: row;
+    background-color: #FFFFFF;
+    padding: 40px 0 40px 40px;
+    margin-top: 40px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-B > .c-item-01 {
+    width: 353px;
+    height: 110px;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-B > .c-item-01 > .c-item-01-A {
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 22px;
+    /* or 110% */
+    letter-spacing: -0.017em;
+  }
+  .section-03 .c-wrapper-02 .c-column-02 .c-item-B > .c-item-01 > .c-item-01-B {
+    padding-right: 62px;
+    font-family: "Inter";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 22px;
+    /* or 110% */
+    letter-spacing: -0.6%;
+  }
+}/*# sourceMappingURL=Section03.css.map */
